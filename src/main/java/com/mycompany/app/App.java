@@ -11,7 +11,7 @@ public class App
 	    String name = "login";
 	    String password = "password";
         System.out.println( "Hello World!" );
-        System.out.println"---------------------------");
+        System.out.println("---------------------------");
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
         /**
